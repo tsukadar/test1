@@ -10,6 +10,7 @@
     "framework_version": "3.5",
     "xcode_version": "6",
     "cordova_version": "4.1",
+    "plugin_settings": [],
     "external_plugins": [
         "https:\/\/github.com\/KiiPlatform\/kii-cordova-plugin#monaca-v0.7.0"
     ]
