@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "mobi.monaca.appccloud.appCCloudPlugin",
+        "com.msopentech.azure-mobile-services",
+        "cordova-plugin-repro",
+        "plugin.push.nifty"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "4.1",
+    "external_plugins": [
+        "https:\/\/github.com\/KiiPlatform\/kii-cordova-plugin#monaca-v0.7.0"
+    ]
+}
